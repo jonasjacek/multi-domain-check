@@ -1,6 +1,18 @@
 # Multi Domain Check
 
 
+<!-- vim-markdown-toc GFM -->
+
+* [About](#about)
+* [Usage](#usage)
+* [Dependencies](#dependencies)
+* [Mirrors](#mirrors)
+* [Warranty and Liability](#warranty-and-liability)
+* [Licence](#licence)
+* [Contribute](#contribute)
+
+<!-- vim-markdown-toc -->
+
 ## About
 Using tools from the [GNU operating system](https://www.gnu.org/) toolchain, the Multi-Domain-Check script probes a list of domain names for:
 
